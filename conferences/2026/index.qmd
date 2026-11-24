@@ -280,7 +280,7 @@ Papers should be submitted no later than 15 January 2027 via e-mail to: anamaria
 
 ## Presentations
 
-The presentations will be uploaded on a separate page (link to follow).
+The slides of the presentations are on the [slides page](slides.qmd), in programme order.
 
 ## Organisation
 

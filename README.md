@@ -34,6 +34,8 @@ conferences/
     fr.qmd                French translation      /conference2026_FR.html
     live.qmd              agenda, map, photos     /conference2026-live.html
     _photos.qmd           photo galleries included by live.qmd
+    slides.qmd            slides of all talks, by day and session (links to slides/ or Google Drive)
+    slides/<session>/     self-hosted slide files (PDF, HTML decks), e.g. slides/a1/hauke.pdf
     images/ files/ photos/
 events/
   index.qmd               listing of workshops/trainings: */index.qmd + archive.yml
@@ -63,6 +65,17 @@ includes can live next to real pages.
 5. For a live page, copy `2026/live.qmd`. Photos go in `photos/dayN/`, with one
    `.photo-grid` block per session in `_photos.qmd`. Shrink them first, e.g.
    `mogrify -auto-orient -resize 1400x1400\> -strip -quality 80 *.jpg`.
+
+## Slides
+
+`conferences/2026/slides.qmd` lists every talk in programme order with pill links
+(`[PDF](slides/a1/x.pdf){.slide-btn}`). PDFs and HTML decks up to ~17 MB are
+copied into `slides/<session>/` with short `author.ext` names. PowerPoint files,
+videos and larger files stay on the
+[shared Google Drive folder](https://drive.google.com/drive/folders/1iYtCNkHRpCJyFSfVuP6ymE_M6E_Sf4bE)
+and are linked as `https://drive.google.com/file/d/<id>/view` with
+`{.slide-btn .drive}`. Talks without slides get `[No slides shared]{.no-slides}`.
+`resources: [slides/]` in the front matter makes Quarto copy the HTML decks as-is.
 
 ## Migrating an older edition
 

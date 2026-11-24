@@ -287,3 +287,67 @@ blockquote {
 .panel-tabset table td:first-child {
   white-space: nowrap;
 }
+
+// ---- slides page -------------------------------------------------------------
+
+.session-meta {
+  display: block;
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin: -0.25rem 0 0.75rem;
+}
+
+.talks ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+  li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    &:last-child { border-bottom: none; }
+  }
+}
+
+.talks .authors {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+// small pill-shaped file links; ".drive" ones open on Google Drive
+a.slide-btn {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0.3rem 0.3rem 0 0;
+  padding: 0.1rem 0.6rem;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  color: inherit;
+  text-decoration: none;
+  &:hover {
+    background: rgba(255, 255, 255, 0.28);
+    color: inherit;
+  }
+  &.drive::after {
+    content: " \2197";  // north-east arrow: opens elsewhere
+  }
+}
+
+.no-slides {
+  font-size: 0.85rem;
+  font-style: italic;
+  opacity: 0.65;
+}
+
+.slide-gifs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  img {
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+}

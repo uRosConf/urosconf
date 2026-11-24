@@ -12,7 +12,7 @@ This page contains agenda, real-time and important information during the confer
 
 Visit this website regularly for updates or [follow us on LinkedIn](https://www.linkedin.com/company/the-use-of-r-in-official-statistics-uros/posts).
 
-[← Back to the uRos2026 conference page](index.qmd)
+[← Back to the uRos2026 conference page](index.qmd) · [Slides](slides.qmd)
 
 ## Venue
 
@@ -92,6 +92,10 @@ Conference venue: Pierre Mendès France Conference Center, 139 Rue de Bercy, 750
 ## Abstracts
 
 **Download the book of abstracts:** [uros2026_book_of_abstracts.pdf](files/uros2026_book_of_abstracts.pdf)
+
+## Slides
+
+The slides of the keynotes and sessions are on the [slides page](slides.qmd).
 
 ## Photo Group
 

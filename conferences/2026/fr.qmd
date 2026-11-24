@@ -278,7 +278,7 @@ La *Romanian Statistical Review* fait partie de la Web Of Science Core Collectio
 
 ## Presentations
 
-Les présentations sont téléchargées sur une page séparée (lien à venir).
+Les supports des présentations sont disponibles sur la [page des présentations](slides.qmd) (en anglais), dans l'ordre du programme.
 
 ## Organisation
 

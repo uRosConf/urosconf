@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://urosconf.org/index.html</loc>
-    <lastmod>2026-11-22T10:52:52.760Z</lastmod>
+    <loc>https://urosconf.org/events/index.html</loc>
+    <lastmod>2026-11-22T10:33:09.952Z</lastmod>
   </url>
   <url>
-    <loc>https://urosconf.org/conferences/index.html</loc>
-    <lastmod>2026-11-22T10:52:52.758Z</lastmod>
-  </url>
-  <url>
-    <loc>https://urosconf.org/conferences/2026/index.html</loc>
-    <lastmod>2026-11-22T10:52:52.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://urosconf.org/about.html</loc>
-    <lastmod>2026-11-22T10:52:52.461Z</lastmod>
-  </url>
-  <url>
-    <loc>https://urosconf.org/conferences/2026/fr.html</loc>
-    <lastmod>2026-11-22T10:52:52.525Z</lastmod>
+    <loc>https://urosconf.org/conferences/2026/slides.html</loc>
+    <lastmod>2026-11-23T08:02:02.211Z</lastmod>
   </url>
   <url>
     <loc>https://urosconf.org/conferences/2026/live.html</loc>
-    <lastmod>2026-11-22T10:52:52.535Z</lastmod>
+    <lastmod>2026-11-23T08:02:19.243Z</lastmod>
   </url>
   <url>
-    <loc>https://urosconf.org/events/index.html</loc>
-    <lastmod>2026-11-22T10:52:52.760Z</lastmod>
+    <loc>https://urosconf.org/conferences/index.html</loc>
+    <lastmod>2026-11-22T10:32:39.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://urosconf.org/about.html</loc>
+    <lastmod>2026-11-22T10:33:34.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://urosconf.org/conferences/2026/fr.html</loc>
+    <lastmod>2026-11-23T08:02:28.779Z</lastmod>
+  </url>
+  <url>
+    <loc>https://urosconf.org/conferences/2026/index.html</loc>
+    <lastmod>2026-11-23T08:02:19.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://urosconf.org/index.html</loc>
+    <lastmod>2026-11-22T10:37:43.480Z</lastmod>
   </url>
 </urlset>

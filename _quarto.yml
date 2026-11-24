@@ -26,6 +26,8 @@ website:
             text: "uRos2026 · Paris"
           - href: conferences/2026/live.qmd
             text: "uRos2026 · Live & photos"
+          - href: conferences/2026/slides.qmd
+            text: "uRos2026 · Slides"
           - text: "---"
           - href: conferences/index.qmd
             text: "All conferences"

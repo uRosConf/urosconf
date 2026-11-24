@@ -1,9 +1,7 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/conferences/2026/index.html"
-    ]
+    "listing": "/events/index.html",
+    "items": []
   },
   {
     "listing": "/conferences/index.html",
@@ -12,7 +10,9 @@
     ]
   },
   {
-    "listing": "/events/index.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/conferences/2026/index.html"
+    ]
   }
 ]
